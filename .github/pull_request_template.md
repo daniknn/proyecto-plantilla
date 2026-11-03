@@ -20,3 +20,7 @@ Hice yo:
 <!-- Marca solo una. Si marcas Sí, escribe el número de tu issue de permiso. -->
 - [ ] No
 - [ ] Sí, issue de permiso: #N
+
+## Reto en frío
+
+<!-- Obligatoria solo si marcaste Revisión: un hallazgo por línea, "- H1: <hallazgo> → Incorporo: <qué cambiaste>" o "→ Rechazo: <razón>". En otros niveles déjala vacía o escribe "No aplica". -->
