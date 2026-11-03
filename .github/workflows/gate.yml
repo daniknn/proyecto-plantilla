@@ -1,5 +1,8 @@
 name: Gate
-on: pull_request
+on:
+  pull_request:
+    # edited: el gate vuelve a correr cuando corriges la descripción del PR.
+    types: [opened, edited, synchronize, reopened]
 jobs:
   gate:
     uses: daniknn/lca425-estandar/.github/workflows/gate.yml@main
