@@ -2,4 +2,4 @@ name: Gate
 on: pull_request
 jobs:
   gate:
-    uses: daniknn/lca425-estandar/.github/workflows/gate.yml@v1
+    uses: daniknn/lca425-estandar/.github/workflows/gate.yml@main
