@@ -3,7 +3,7 @@
 <!-- Marca solo uno. Si dudas entre dos, elige el más alto. -->
 - [ ] Libre: notas, prompts de prueba, bitácora
 - [ ] Aviso: borradores de guion y shotlist, clips de prueba
-- [ ] Revisión: entregas evaluadas, material de terceros, publicación del portafolio
+- [ ] Revisión: entregas evaluadas, material de terceros (mergeas tú con el reto en frío respondido)
 - [ ] Permiso: temas sensibles, pasarte del tope de créditos, publicar fuera del aula
 
 ## Qué cambia
