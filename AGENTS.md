@@ -23,7 +23,7 @@ Si algo de este archivo choca con el estándar, manda el estándar.
 - Libre: mergeas tu PR cuando el gate está en verde.
 - Aviso: mergeas con el gate en verde; Daria lo revisa en la clase siguiente.
 - Revisión: Daria aprueba tu PR antes del merge.
-- Permiso: abres un issue de autorización antes de empezar (personas reales, menores, temas sensibles).
+- Permiso: abres un issue de autorización antes de empezar (solo para temas sensibles, pasarte del tope de créditos o publicar fuera del aula).
 
 ## Carpetas
 
@@ -34,6 +34,6 @@ Si algo de este archivo choca con el estándar, manda el estándar.
 
 - Nunca subas video, audio ni archivos de edición al repo: va en tu carpeta de Drive.
 - No pongas llaves, contraseñas ni datos de otras personas en ningún archivo.
-- No uses la cara ni la voz de una persona real sin issue de permiso.
+- Da crédito en tu PR al material que no hiciste (música, imágenes, logos, voces).
 - No hagas push directo a `main`: siempre por PR.
 - Si algo se bloquea, lee el mensaje completo: dice qué pasó y cómo destrabarlo.

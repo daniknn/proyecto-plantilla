@@ -4,7 +4,7 @@
 - [ ] Libre: notas, prompts de prueba, bitácora
 - [ ] Aviso: borradores de guion y shotlist, clips de prueba
 - [ ] Revisión: entregas evaluadas, material de terceros, publicación del portafolio
-- [ ] Permiso: persona real, menores, temas sensibles, pasarte del tope de créditos
+- [ ] Permiso: temas sensibles, pasarte del tope de créditos, publicar fuera del aula
 
 ## Qué cambia
 
@@ -14,12 +14,6 @@
 
 Hizo la IA:
 Hice yo:
-
-## Personas reales
-
-<!-- Marca solo una. Si marcas Sí, escribe el número de tu issue de permiso. -->
-- [ ] No
-- [ ] Sí, issue de permiso: #N
 
 ## Reto en frío
 
