@@ -22,7 +22,7 @@ Si algo de este archivo choca con el estándar, manda el estándar.
 
 - Libre: mergeas tu PR cuando el gate está en verde.
 - Aviso: mergeas con el gate en verde; Daria lo revisa en la clase siguiente.
-- Revisión: Daria aprueba tu PR antes del merge.
+- Revisión: mergeas con el gate en verde y el reto en frío respondido; Daria califica después.
 - Permiso: abres un issue de autorización antes de empezar (solo para temas sensibles, pasarte del tope de créditos o publicar fuera del aula).
 
 ## Carpetas
