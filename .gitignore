@@ -1,0 +1,31 @@
+# Media: va en Drive, nunca en el repo
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.aac
+*.m4a
+*.flac
+*.aif
+*.aiff
+*.psd
+*.ai
+*.aep
+*.prproj
+*.drp
+*.fcpxml
+*.zip
+*.rar
+*.7z
+
+# Secretos y configuración local
+.mcp.json
+.claude/settings.local.json
+.env*
+
+# Sistema
+.DS_Store
